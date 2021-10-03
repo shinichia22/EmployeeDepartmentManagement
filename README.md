@@ -1,6 +1,8 @@
 # EmployeeDepartmentManagement
 
-#### -> Clone the projec
+### How to Run
+
+#### -> Clone the projecT
 #### -> Open any IDE (IntelliJ IDEA or STS)
 #### -> Download the dependecies as menationed in the pom.xml  
 #### -> Got to the EmpDepCrudApplication.java file
